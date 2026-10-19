@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/business-permission.csproj": {}
+    "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/business-permission/business-permission.csproj": {}
   },
   "projects": {
-    "/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/business-permission.csproj": {
+    "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/business-permission/business-permission.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/business-permission.csproj",
+        "projectUniqueName": "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/business-permission/business-permission.csproj",
         "projectName": "business-permission",
-        "projectPath": "/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/business-permission.csproj",
+        "projectPath": "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/business-permission/business-permission.csproj",
         "packagesPath": "/Users/pietromuresu/.nuget/packages/",
-        "outputPath": "/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/obj/",
+        "outputPath": "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/business-permission/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pietromuresu/.nuget/NuGet/NuGet.Config"

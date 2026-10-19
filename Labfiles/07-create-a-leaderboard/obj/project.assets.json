@@ -1,0 +1,73 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net9.0": []
+  },
+  "packageFolders": {
+    "/Users/pietromuresu/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/07-create-a-leaderboard/07-create-a-leaderboard.csproj",
+      "projectName": "07-create-a-leaderboard",
+      "projectPath": "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/07-create-a-leaderboard/07-create-a-leaderboard.csproj",
+      "packagesPath": "/Users/pietromuresu/.nuget/packages/",
+      "outputPath": "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/07-create-a-leaderboard/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/pietromuresu/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "/opt/homebrew/Cellar/dotnet@9/9.0.121/libexec/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet@9/9.0.121/libexec/sdk/9.0.121/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

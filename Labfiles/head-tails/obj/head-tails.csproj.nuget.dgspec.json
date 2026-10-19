@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/head-tails.csproj": {}
+    "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/head-tails/head-tails.csproj": {}
   },
   "projects": {
-    "/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/head-tails.csproj": {
+    "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/head-tails/head-tails.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/head-tails.csproj",
+        "projectUniqueName": "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/head-tails/head-tails.csproj",
         "projectName": "head-tails",
-        "projectPath": "/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/head-tails.csproj",
+        "projectPath": "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/head-tails/head-tails.csproj",
         "packagesPath": "/Users/pietromuresu/.nuget/packages/",
-        "outputPath": "/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/obj/",
+        "outputPath": "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/head-tails/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pietromuresu/.nuget/NuGet/NuGet.Config"

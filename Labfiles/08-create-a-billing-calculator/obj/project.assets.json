@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/08-create-a-billing-calculator.csproj",
+      "projectUniqueName": "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/08-create-a-billing-calculator.csproj",
       "projectName": "08-create-a-billing-calculator",
-      "projectPath": "/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/08-create-a-billing-calculator.csproj",
+      "projectPath": "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/08-create-a-billing-calculator.csproj",
       "packagesPath": "/Users/pietromuresu/.nuget/packages/",
-      "outputPath": "/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/obj/",
+      "outputPath": "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pietromuresu/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/09-create-a-log-file-viewer.csproj": {}
+    "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/09-create-a-log-file-viewer.csproj": {}
   },
   "projects": {
-    "/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/09-create-a-log-file-viewer.csproj": {
+    "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/09-create-a-log-file-viewer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/09-create-a-log-file-viewer.csproj",
+        "projectUniqueName": "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/09-create-a-log-file-viewer.csproj",
         "projectName": "09-create-a-log-file-viewer",
-        "projectPath": "/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/09-create-a-log-file-viewer.csproj",
+        "projectPath": "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/09-create-a-log-file-viewer.csproj",
         "packagesPath": "/Users/pietromuresu/.nuget/packages/",
-        "outputPath": "/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/obj/",
+        "outputPath": "/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pietromuresu/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/switch-case/bin/Debug/net9.0/switch-case
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/switch-case/bin/Debug/net9.0/switch-case.deps.json
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/switch-case/bin/Debug/net9.0/switch-case.runtimeconfig.json
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/switch-case/bin/Debug/net9.0/switch-case.dll
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/switch-case/bin/Debug/net9.0/switch-case.pdb
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/switch-case/obj/Debug/net9.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/switch-case/obj/Debug/net9.0/switch-case.AssemblyInfoInputs.cache
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/switch-case/obj/Debug/net9.0/switch-case.AssemblyInfo.cs
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/switch-case/obj/Debug/net9.0/switch-case.csproj.CoreCompileInputs.cache
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/switch-case/obj/Debug/net9.0/switch-case.sourcelink.json
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/switch-case/obj/Debug/net9.0/switch-case.dll
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/switch-case/obj/Debug/net9.0/refint/switch-case.dll
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/switch-case/obj/Debug/net9.0/switch-case.pdb
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/switch-case/obj/Debug/net9.0/switch-case.genruntimeconfig.cache
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/switch-case/obj/Debug/net9.0/ref/switch-case.dll
