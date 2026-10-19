@@ -1,0 +1,15 @@
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/fizz-buzz/bin/Debug/net9.0/fizz-buzz
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/fizz-buzz/bin/Debug/net9.0/fizz-buzz.deps.json
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/fizz-buzz/bin/Debug/net9.0/fizz-buzz.runtimeconfig.json
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/fizz-buzz/bin/Debug/net9.0/fizz-buzz.dll
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/fizz-buzz/bin/Debug/net9.0/fizz-buzz.pdb
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/fizz-buzz/obj/Debug/net9.0/fizz-buzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/fizz-buzz/obj/Debug/net9.0/fizz-buzz.AssemblyInfoInputs.cache
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/fizz-buzz/obj/Debug/net9.0/fizz-buzz.AssemblyInfo.cs
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/fizz-buzz/obj/Debug/net9.0/fizz-buzz.csproj.CoreCompileInputs.cache
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/fizz-buzz/obj/Debug/net9.0/fizz-buzz.sourcelink.json
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/fizz-buzz/obj/Debug/net9.0/fizz-buzz.dll
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/fizz-buzz/obj/Debug/net9.0/refint/fizz-buzz.dll
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/fizz-buzz/obj/Debug/net9.0/fizz-buzz.pdb
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/fizz-buzz/obj/Debug/net9.0/fizz-buzz.genruntimeconfig.cache
+/Users/pietromuresu/Desktop/Projects/MicrosoftLearning/Labfiles/fizz-buzz/obj/Debug/net9.0/ref/fizz-buzz.dll
