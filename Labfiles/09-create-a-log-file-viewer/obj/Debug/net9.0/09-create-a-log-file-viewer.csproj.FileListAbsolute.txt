@@ -1,0 +1,15 @@
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/obj/Debug/net9.0/09-create-a-log-file-viewer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/obj/Debug/net9.0/09-create-a-log-file-viewer.AssemblyInfoInputs.cache
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/obj/Debug/net9.0/09-create-a-log-file-viewer.AssemblyInfo.cs
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/obj/Debug/net9.0/09-create-a-log-file-viewer.csproj.CoreCompileInputs.cache
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/obj/Debug/net9.0/09-create-a-log-file-viewer.sourcelink.json
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/bin/Debug/net9.0/09-create-a-log-file-viewer
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/bin/Debug/net9.0/09-create-a-log-file-viewer.deps.json
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/bin/Debug/net9.0/09-create-a-log-file-viewer.runtimeconfig.json
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/bin/Debug/net9.0/09-create-a-log-file-viewer.dll
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/bin/Debug/net9.0/09-create-a-log-file-viewer.pdb
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/obj/Debug/net9.0/09-create-a-log-file-viewer.dll
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/obj/Debug/net9.0/refint/09-create-a-log-file-viewer.dll
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/obj/Debug/net9.0/09-create-a-log-file-viewer.pdb
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/obj/Debug/net9.0/09-create-a-log-file-viewer.genruntimeconfig.cache
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/09-create-a-log-file-viewer/obj/Debug/net9.0/ref/09-create-a-log-file-viewer.dll

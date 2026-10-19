@@ -1,0 +1,15 @@
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/bin/Debug/net9.0/business-permission
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/bin/Debug/net9.0/business-permission.deps.json
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/bin/Debug/net9.0/business-permission.runtimeconfig.json
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/bin/Debug/net9.0/business-permission.dll
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/bin/Debug/net9.0/business-permission.pdb
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/obj/Debug/net9.0/business-permission.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/obj/Debug/net9.0/business-permission.AssemblyInfoInputs.cache
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/obj/Debug/net9.0/business-permission.AssemblyInfo.cs
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/obj/Debug/net9.0/business-permission.csproj.CoreCompileInputs.cache
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/obj/Debug/net9.0/business-permission.sourcelink.json
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/obj/Debug/net9.0/business-permission.dll
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/obj/Debug/net9.0/refint/business-permission.dll
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/obj/Debug/net9.0/business-permission.pdb
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/obj/Debug/net9.0/business-permission.genruntimeconfig.cache
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/business-permission/obj/Debug/net9.0/ref/business-permission.dll

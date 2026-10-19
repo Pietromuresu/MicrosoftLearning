@@ -1,0 +1,15 @@
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/obj/Debug/net9.0/head-tails.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/obj/Debug/net9.0/head-tails.AssemblyInfoInputs.cache
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/obj/Debug/net9.0/head-tails.AssemblyInfo.cs
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/obj/Debug/net9.0/head-tails.csproj.CoreCompileInputs.cache
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/obj/Debug/net9.0/head-tails.sourcelink.json
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/bin/Debug/net9.0/head-tails
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/bin/Debug/net9.0/head-tails.deps.json
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/bin/Debug/net9.0/head-tails.runtimeconfig.json
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/bin/Debug/net9.0/head-tails.dll
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/bin/Debug/net9.0/head-tails.pdb
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/obj/Debug/net9.0/head-tails.dll
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/obj/Debug/net9.0/refint/head-tails.dll
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/obj/Debug/net9.0/head-tails.pdb
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/obj/Debug/net9.0/head-tails.genruntimeconfig.cache
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/head-tails/obj/Debug/net9.0/ref/head-tails.dll

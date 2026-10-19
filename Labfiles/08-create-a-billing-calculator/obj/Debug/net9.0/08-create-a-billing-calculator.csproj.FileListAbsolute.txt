@@ -1,0 +1,15 @@
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/bin/Debug/net9.0/08-create-a-billing-calculator
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/bin/Debug/net9.0/08-create-a-billing-calculator.deps.json
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/bin/Debug/net9.0/08-create-a-billing-calculator.runtimeconfig.json
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/bin/Debug/net9.0/08-create-a-billing-calculator.dll
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/bin/Debug/net9.0/08-create-a-billing-calculator.pdb
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/obj/Debug/net9.0/08-create-a-billing-calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/obj/Debug/net9.0/08-create-a-billing-calculator.AssemblyInfoInputs.cache
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/obj/Debug/net9.0/08-create-a-billing-calculator.AssemblyInfo.cs
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/obj/Debug/net9.0/08-create-a-billing-calculator.csproj.CoreCompileInputs.cache
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/obj/Debug/net9.0/08-create-a-billing-calculator.sourcelink.json
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/obj/Debug/net9.0/08-create-a-billing-calculator.dll
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/obj/Debug/net9.0/refint/08-create-a-billing-calculator.dll
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/obj/Debug/net9.0/08-create-a-billing-calculator.pdb
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/obj/Debug/net9.0/08-create-a-billing-calculator.genruntimeconfig.cache
+/Users/pietromuresu/Desktop/Projects/audio-transcription/c-sharp-tutorial/c-sharp-first/MicrosoftLearning/Labfiles/08-create-a-billing-calculator/obj/Debug/net9.0/ref/08-create-a-billing-calculator.dll
